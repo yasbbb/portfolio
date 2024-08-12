@@ -9,7 +9,7 @@
 			name: 'Tech For Good',
 			details: 'Software Engineering',
 			description: `
-				<p>◦ Designed and implemented a kinematics conversion measurement framework into a scalable simulation to
+				<p>Designed and implemented a kinematics conversion measurement framework into a scalable simulation to
 				reduce inconsistency between tailored scenarios impacting 15+ schools across Africa and India. 
 				Migrated critical calibration models to OSSFTGG’s open-source software initiative to create enterprise applications
 				using OpenTRS saving $35k per year by reducing computation windows</p>

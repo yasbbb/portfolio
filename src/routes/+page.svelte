@@ -9,7 +9,10 @@
 			name: 'Tech For Good',
 			details: 'Software Engineering',
 			description: `
-				<p>Expected to work closely with engineers to develop scalable machine learning simulations in Python and Java.</p>
+				<p>◦ Designed and implemented a kinematics conversion measurement framework into a scalable simulation to
+				reduce inconsistency between tailored scenarios impacting 15+ schools across Africa and India. 
+				Migrated critical calibration models to OSSFTGG’s open-source software initiative to create enterprise applications
+				using OpenTRS saving $35k per year by reducing computation windows</p>
 			`,
 			technologies: ['PYTHON', 'JAVA', 'GIT']
 		},
@@ -102,6 +105,8 @@
 					/>
 				</svg>
 			</span> if you have any questions.<br/><br/>
+
+			shout out <a href="https://www.youtube.com/watch?v=B4C-zUT_Hac" target="__blank" class="underine font-bold text-blue-500">kevin gates</a>
 			
 		</p>
 	</div>

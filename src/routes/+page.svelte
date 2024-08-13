@@ -78,7 +78,7 @@
 
 <svelte:head>
 	<title>yash bardhan</title>
-	<meta name="description" content="Daniel Kasabov-Nouvion. Developer @ Austin, TX" />
+	<meta name="description" content="Yash Bardhan" />
 </svelte:head>
 
 <!-- <Nav /> -->
@@ -87,7 +87,7 @@
 	<div class="flex flex-col justify-center pt-10 w-full">
 		<p class="text-justify text-white f-code">
 			Hey there, I'm Yash Bardhan. I'm a full time Computer Science Student @ UT Dallas. Beyond school, I spend my time as Co-Founder & CEO of FechAI.
-			Interested in low level quantitative development. Take a
+			Interested in low level development. Take a
 			look at what I've done and shoot me an
 			<span on:click={copyEmailToClipboard} class="cursor-pointer hover:border-b-2"
 				>email <svg

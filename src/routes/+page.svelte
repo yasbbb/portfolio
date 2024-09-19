@@ -57,7 +57,7 @@
 		},
 		{
 			index: 5,
-			name: 'Comerica bank',
+			name: 'Comerica Bank',
 			details: 'Cybersecurity',
 			description: `
 					<p>Crafted queries to facilitate IP-based account flagging algorithms designed to monitor credit card fraud cross-referencing incoming transactions against Comerica Bank’s database. 
@@ -95,7 +95,7 @@
 <div class="flex-1 w-full">
 	<div class="flex flex-col justify-center pt-10 w-full">
 		<p class="text-justify text-white f-code">
-			Hey there, I'm Yash Bardhan. I'm a full time Computer Science Student @ UT Dallas. Beyond school, I spend my time as Co-Founder & CEO of FechAI.
+			Hey there, I'm Yash Bardhan. I'm a full time Computer Science Student @ UT Dallas. I'll be working at Major League Hacking as a SWE intern over fall 2024.
 			Interested in low level development. Take a
 			look at what I've done and shoot me an
 			<span on:click={copyEmailToClipboard} class="cursor-pointer hover:border-b-2"
@@ -115,7 +115,7 @@
 				</svg>
 			</span> if you have any questions.<br/><br/>
 
-			shout out <a href="https://www.youtube.com/watch?v=B4C-zUT_Hac" target="__blank" class="underine font-bold text-blue-500">kevin gates</a>
+			<a href="https://drive.google.com/file/d/1eFS7dH4hINO4PtrgysAFZ4fFlNgHVLMG/view?usp=drive_link" target="__blank" class="underine font-bold text-blue-500">my resume</a>
 			
 		</p>
 	</div>

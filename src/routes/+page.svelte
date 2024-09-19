@@ -5,6 +5,15 @@
 
 	const experiences = [
 		{
+			index: 99,
+			name: 'Major League Hacking',
+			details: 'Software Engineering',
+			description: `
+				<p>Expected to work closely with the Meta Programming Language and Runtime Team (PL&R) to analyze performance between Clang and GCC compilers</p>
+			`,
+			technologies: ['C++']
+		},
+		{
 			index: 1,
 			name: 'Tech For Good',
 			details: 'Software Engineering',

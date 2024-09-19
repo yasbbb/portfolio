@@ -9,6 +9,7 @@
 			name: 'Major League Hacking',
 			details: 'Software Engineering',
 			description: `
+				<a href="https://mlh.io/" target="blank" style="text-decoration: underline">MLH</a>
 				<p>Expected to work closely with the Meta Programming Language and Runtime Team (PL&R) to analyze performance between Clang and GCC compilers</p>
 			`,
 			technologies: ['C++']
@@ -18,10 +19,10 @@
 			name: 'Tech For Good',
 			details: 'Software Engineering',
 			description: `
-				<p>Designed and implemented a kinematics conversion measurement framework into a scalable simulation to
-				reduce inconsistency between tailored scenarios impacting 15+ schools across Africa and India. 
-				Migrated critical calibration models to OSSFTGG’s open-source software initiative to create enterprise applications
-				using OpenTRS saving $35k per year by reducing computation windows</p>
+				<p>Modeled an interactive kinematics simulation with an integrated conversion measurement framework using MATLAB and Python, 
+				impacting 15+ schools across Africa and India. 
+				Migrated training and calibration models to OSSFTGG’s open-source software initiative to create enterprise applications
+				using OpenTRS saving $30k per year by reducing computation windows</p>
 			`,
 			technologies: ['PYTHON', 'JAVA', 'GIT']
 		},

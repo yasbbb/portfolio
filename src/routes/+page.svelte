@@ -93,7 +93,7 @@
 <div class="flex-1 w-full">
 	<div class="flex flex-col justify-center pt-10 w-full">
 		<p class="text-justify text-white f-code">
-			Hey there, I'm Yash Bardhan. I'm a full time Computer Science Student @ UT Dallas. I'll be working at Major League Hacking as a SWE intern over fall 2024.
+			Hey there, I'm Yash Bardhan. I'm a full time CS/Finance Student @ UT Dallas. I'll be working at Major League Hacking as a SWE intern in fall 2024.
 			Interested in low level development. Take a
 			look at what I've done and shoot me an
 			<span on:click={copyEmailToClipboard} class="cursor-pointer hover:border-b-2"

@@ -19,12 +19,11 @@
 			name: 'Tech For Good',
 			details: 'Software Engineering',
 			description: `
-				<p>Modeled an interactive kinematics simulation with an integrated conversion measurement framework using MATLAB and Python, 
+				<p>Modeled an interactive kinematics simulation with an integrated conversion measurement framework, 
 				impacting 15+ schools across Africa and India. 
-				Migrated training and calibration models to OSSFTGG’s open-source software initiative to create enterprise applications
-				using OpenTRS saving $30k per year by reducing computation windows</p>
+				Migrated training and calibration models to OSSFTGG’s open-source software initiative</p>
 			`,
-			technologies: ['PYTHON', 'JAVA', 'GIT']
+			technologies: ['PYTHON', 'TYPESCRIPT', 'MATLAB', 'GIT']
 		},
 		{
 			index: 2,
@@ -60,20 +59,19 @@
 			name: 'Comerica Bank',
 			details: 'Cybersecurity',
 			description: `
-					<p>Crafted queries to facilitate IP-based account flagging algorithms designed to monitor credit card fraud cross-referencing incoming transactions against Comerica Bank’s database. 
-					Tightened training model windows, streamlining workflow procedure efficiency by decreasing computational needs, saving designers ~4500 hours a year
+					<p>Crafted IP-based account flagging algorithms cross-referencing 30k+ transactions against Comerica’s database (CC Fraud). 
+					Tightened training model windows using ATF, streamlining workflow procedure efficiency, saving designers ~4500 hours a year
 </p>
 				`,
-			technologies: ['PYTHON', 'CI/CD', 'GIT', 'SHELL', 'LINUX', 'SQL']
+			technologies: ['JAVA', 'PYTHON', 'CI/CD', 'GIT', 'SHELL', 'SQL']
 		},
 		{
 			index: 6,
 			name: 'Choice Hotels',
 			details: 'Software Engineering',
 			description: `
-				<p>Overhauled EC2 instance deployment process to create operating system images during Amazon monthly updates. 
-				Migrated 1,800+ jobs to new AWS Jenkins server using Java automation scripts and 
-				integrated a product design tool API utilized by the operations team to automate design uploads to PostgreSQL 
+				<p>Overhauled EC2 instance deployment process to create OS images during Amazon monthly updates. 
+				Migrated 1,800+ jobs to new AWS Jenkins server and integrated a product design tool API to automate design uploads to PostgreSQL 
 </p>
 			`,
 			technologies: ['JAVA', 'AWS', 'JENKINS', 'PACKER', 'PSQL']

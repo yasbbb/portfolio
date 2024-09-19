@@ -61,7 +61,7 @@
 			details: 'Cybersecurity',
 			description: `
 					<p>Crafted queries to facilitate IP-based account flagging algorithms designed to monitor credit card fraud cross-referencing incoming transactions against Comerica Bank’s database. 
-					Tightened training model windows, streamlining workflow procedure efficiency by 18% and saving designers ~4500 hours a year
+					Tightened training model windows, streamlining workflow procedure efficiency by decreasing computational needs, saving designers ~4500 hours a year
 </p>
 				`,
 			technologies: ['PYTHON', 'CI/CD', 'GIT', 'SHELL', 'LINUX', 'SQL']

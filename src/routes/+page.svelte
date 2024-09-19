@@ -10,7 +10,7 @@
 			details: 'Software Engineering',
 			description: `
 				<a href="https://mlh.io/" target="blank" style="text-decoration: underline">MLH</a>
-				<p>Expected to work closely with the Meta Programming Language and Runtime Team (PL&R) to analyze performance between Clang and GCC compilers</p>
+				<p>Expected to work closely with the Meta Programming Language and Runtime (PL&R) Team to analyze performance between Clang and GCC compilers</p>
 			`,
 			technologies: ['C++']
 		},
@@ -71,9 +71,8 @@
 			name: 'Choice Hotels',
 			details: 'Software Engineering',
 			description: `
-				<p>Overhauled serverless deployment process through EC2 instance packaging, 
-				creating monthly OS images during Amazon release updates. 
-				Migrated 1,800+ jobs to a new AWS Jenkins server using automation scripts and 
+				<p>Overhauled EC2 instance deployment process to create operating system images during Amazon monthly updates. 
+				Migrated 1,800+ jobs to new AWS Jenkins server using Java automation scripts and 
 				integrated a product design tool API utilized by the operations team to automate design uploads to PostgreSQL 
 </p>
 			`,

@@ -1,5 +1,4 @@
 <script>
-	const src = '/phrog.gif';
 	let toggled = false;
 
 	const toggle = () => (toggled = !toggled);

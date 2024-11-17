@@ -14,7 +14,7 @@
 					href="https://github.com/yasbbb"
 					target="_blank">PROJECTS</a
 				>
-				<a class="w-35 h-25 sm:w-32 sm:h-32 noselect flex items-center" href="/">
+				<a class="w-40 h-25 sm:w-32 sm:h-32 noselect flex items-center" href="/">
 					<img
 						src="/sig.png"
 						alt="Signature Image"

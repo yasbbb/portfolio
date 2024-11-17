@@ -112,7 +112,7 @@
 				</svg>
 			</span> if you have any questions.<br/><br/>
 
-			<a href="https://drive.google.com/file/d/1eFS7dH4hINO4PtrgysAFZ4fFlNgHVLMG/view?usp=drive_link" target="__blank" class="underine font-bold text-blue-500">my resume</a>
+			<a href="https://drive.google.com/file/d/1hWwdt3OvTG5hx3UvcSAz01igJf201JDv/view?usp=sharing" target="__blank" class="underine font-bold text-blue-500">my resume</a>
 			
 		</p>
 	</div>

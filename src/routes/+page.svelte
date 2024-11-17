@@ -25,15 +25,15 @@
 			`,
 			technologies: ['PYTHON', 'TYPESCRIPT', 'MATLAB', 'GIT']
 		},
-		{
-			index: 2,
-			name: 'MDP',
-			details: 'Data Product Engineering',
-			description: `
-				<p>Metadata Engine - Data Discovery	and Extraction</p>
-			`,
-			technologies: ['PYTHON', 'FLASK', 'TYPESCRIPT', 'DOCKER', 'DATAHUB', 'GKE']
-		},
+		// {
+		// 	index: 2,
+		// 	name: 'MDP',
+		// 	details: 'Data Product Engineering',
+		// 	description: `
+		// 		<p>Metadata Engine - Data Discovery	and Extraction</p>
+		// 	`,
+		// 	technologies: ['PYTHON', 'FLASK', 'TYPESCRIPT', 'DOCKER', 'DATAHUB', 'GKE']
+		// },
 		{
 			index: 3,
 			name: 'FechAI',

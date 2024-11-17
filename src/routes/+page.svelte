@@ -5,8 +5,8 @@
 
 	const experiences = [
 		{
-			index: 99,
-			name: 'Major League Hacking',
+			index: 999,
+			name: 'MLH',
 			details: 'Software Engineering',
 			description: `
 				<a href="https://mlh.io/" target="blank" style="text-decoration: underline">MLH</a>
@@ -16,7 +16,7 @@
 		},
 		{
 			index: 1,
-			name: 'Tech For Good',
+			name: 'TFG',
 			details: 'Software Engineering',
 			description: `
 				<p>Modeled an interactive kinematics simulation with an integrated conversion measurement framework, 
@@ -35,7 +35,7 @@
 		// 	technologies: ['PYTHON', 'FLASK', 'TYPESCRIPT', 'DOCKER', 'DATAHUB', 'GKE']
 		// },
 		{
-			index: 3,
+			index: 2,
 			name: 'FechAI',
 			details: 'Co-Founder',
 			description: `
@@ -45,7 +45,7 @@
 			technologies: ['SPACY', 'KUBERENETES', 'MONGODB', 'PSQL', 'AWS', 'ELASTICSEARCH']
 		},
 		{
-			index: 4,
+			index: 3,
 			name: 'Stanford',
 			details: 'Student Instructor',
 			description: `
@@ -55,7 +55,7 @@
 			technologies: ['PYTHON']
 		},
 		{
-			index: 5,
+			index: 4,
 			name: 'Comerica Bank',
 			details: 'Cybersecurity',
 			description: `
@@ -66,7 +66,7 @@
 			technologies: ['JAVA', 'PYTHON', 'CI/CD', 'GIT', 'SHELL', 'SQL']
 		},
 		{
-			index: 6,
+			index: 5,
 			name: 'Choice Hotels',
 			details: 'Software Engineering',
 			description: `

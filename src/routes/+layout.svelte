@@ -1,6 +1,6 @@
 <script lang="ts">
 	import '../app.css';
-	import Pepe from '$lib/Pepe.svelte';
+	// import Pepe from '$lib/Pepe.svelte';
 	
 </script>
 
@@ -15,7 +15,12 @@
 					target="_blank">PROJECTS</a
 				>
 				<a class="w-20 h-20 sm:w-32 sm:h-32 noselect" href="/">
-					<Pepe />
+					<!-- <Pepe /> -->
+					<img
+						src="/sig.png"
+						alt="Signature Image"
+						class="object-cover w-full h-full"
+					/>
 				</a>
 				<a href="/contact">CONTACT</a>
 			</div>

@@ -1,8 +1,7 @@
 <script lang="ts">
 	import Dropdown from '$lib/Dropdown.svelte';
 	import Project from '$lib/Project.svelte';
-	import Nav from '../lib/Nav.svelte';
-
+	
 	const experiences = [
 		{
 			index: 999,

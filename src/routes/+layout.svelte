@@ -1,6 +1,7 @@
 <script lang="ts">
 	import '../app.css';
-	import Pepe from '$lib/Pepe.svelte';
+	// import Pepe from '$lib/Pepe.svelte';
+	<img src="/sig.png" alt="signature" />
 </script>
 
 <main class="text-white bg-black">

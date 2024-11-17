@@ -14,7 +14,7 @@
 					href="https://github.com/yasbbb"
 					target="_blank">PROJECTS</a
 				>
-				<a class="w-35 h-20 sm:w-32 sm:h-32 noselect" href="/">
+				<a class="w-35 h-20 sm:w-32 sm:h-32 noselect flex items-center" href="/">
 					<!-- <Pepe /> -->
 					<img
 						src="/sig.png"

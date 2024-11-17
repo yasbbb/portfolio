@@ -1,8 +1,8 @@
 <script lang="ts">
 	import '../app.css';
-	// import Pepe from '$lib/Pepe.svelte';
+	import Pepe from '$lib/Pepe.svelte';
+	
 </script>
-<img src="/sig.png" alt="signature" />
 
 <main class="text-white bg-black">
 	<div class="flex flex-col gap-y-20 justify-between items-center w-full min-h-screen bg-black">
@@ -15,7 +15,7 @@
 					target="_blank">PROJECTS</a
 				>
 				<a class="w-20 h-20 sm:w-32 sm:h-32 noselect" href="/">
-					<signature />
+					<Pepe />
 				</a>
 				<a href="/contact">CONTACT</a>
 			</div>

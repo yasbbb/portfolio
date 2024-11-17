@@ -14,12 +14,11 @@
 					href="https://github.com/yasbbb"
 					target="_blank">PROJECTS</a
 				>
-				<a class="w-20 h-20 sm:w-32 sm:h-32 noselect" href="/">
+				<a class="w-35 h-20 sm:w-32 sm:h-32 noselect" href="/">
 					<!-- <Pepe /> -->
 					<img
 						src="/sig.png"
 						alt="Signature Image"
-						class="object-cover w-full h-full"
 					/>
 				</a>
 				<a href="/contact">CONTACT</a>
